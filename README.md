@@ -17,3 +17,4 @@ A modern e-commerce platform built with **React.js** and **Express.js**, featuri
 **Backend:** Node.js, Express.js, MongoDB  
 **Payment:** Stripe 
 
+---
